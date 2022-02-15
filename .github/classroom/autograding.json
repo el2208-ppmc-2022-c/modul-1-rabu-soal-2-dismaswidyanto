@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "1",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "12325\r\n3\r\n7\r\n2\r\n3",
+      "output": "Hasil decode angka Han adalah 927",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "2",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "1\r\n1\r\n8",
+      "output": "Hasil decode angka Han adalah 1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "3",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "9000\r\n4\r\n2\r\n3\r\n3\r\n2",
+      "output": "Hasil decode angka Han adalah 44",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "4",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "11111111\r\n2\r\n3\r\n8",
+      "output": "Hasil decode angka Han adalah 94197",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "5",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "7823\r\n1\r\n5",
+      "output": "Hasil decode angka Han adalah 575",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "6",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "5072\r\n3\r\n9\r\n9\r\n3",
+      "output": "Hasil decode angka Han adalah 2735",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "7",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "482374912\r\n7\r\n7\r\n6\r\n5\r\n4\r\n3\r\n2\r\n5",
+      "output": "Hasil decode angka Han adalah 5617639",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "8",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "94\r\n2\r\n8\r\n7",
+      "output": "Hasil decode angka Han adalah 62",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "9",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "2430709\r\n2\r\n8\r\n6",
+      "output": "Hasil decode angka Han adalah 192095",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "10",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "478492\r\n4\r\n2\r\n3\r\n4\r\n5",
+      "output": "Hasil decode angka Han adalah 510",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
