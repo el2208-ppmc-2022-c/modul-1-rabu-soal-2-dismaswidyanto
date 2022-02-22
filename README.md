@@ -1,4 +1,4 @@
-# Modul 1 Rabu Soal 1: Overview of C Language
+# Modul 1 Rabu Soal 2: Overview of C Language
 
 ## Instruksi
 Bacalah naskah soal yang tersedia pada *repository* ini dengan saksama. Kemudian kerjakan soal tersebut sesuai dengan ketentuan yang diberikan. Silakan mengerjakan pada *file* `soal-02.c`. Apabila sudah selesai, lakukan *commit* dan *push* ke branch `main` pada *repository* anda.
